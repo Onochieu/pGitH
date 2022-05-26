@@ -12,6 +12,9 @@ Graphics: Charts, graphs, or cutaways are used to help you understand what the a
 Illustrations/Photographs: Help you to know exactly what something looks like
 
 
+Index: This is an alphabetical list of ideas that are in the book. It tells you what page the idea is on.
+Labels: These help you identify a picture or a photograph and its parts
+Maps: help you to understand where places are in the world
 
 
 
