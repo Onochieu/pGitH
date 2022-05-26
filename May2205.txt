@@ -19,6 +19,6 @@ Maps: help you to understand where places are in the world
 
 Special Print: When a word is bold, in italics, or underlined, it is an important word for you to know
 
-
+Subtitles: These headings help you to know what the next section will be about
 
 
